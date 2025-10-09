@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oppgave 3</title>
+</head>
+<body>
+
+    <h3>Art Maker</h3>
+
+    <label>Bredde</label>
+    <input id="width-txt" type="text">
+
+    <label>Høyde</label>
+    <input id="height-txt" type="text">
+
+    <label>Bakgrunnsfarge</label>
+    <input id="background-color-txt" type="text">
+
+    <label>Ord</label>
+    <input id="word-txt" type="text">
+
+    <input id="add-figure-btn" type="button" value="Legg figur i array">
+    <input id="show-all-figures-btn" type="button" value="Vis alle kunstverkene">
+
+    <p id="number-of-figures">Antall figurer: 0</p>
+
+    <div id="output-div"></div>
+
+    <script>
+
+        /*
+            Merk: Du skal kun kode i de tomme funksjonene!
+        */
+
+        var widthTxt = document.getElementById("width-txt");
+        var heightTxt = document.getElementById("height-txt");
+        var backgroundColorTxt = document.getElementById("background-color-txt");
+        var wordTxt = document.getElementById("word-txt");
+
+        var numberOfFigures = document.getElementById("number-of-figures");
+
+        var addFigureBtn = document.getElementById("add-figure-btn");
+        var showAllFiguresBtn = document.getElementById("show-all-figures-btn");
+
+        var outputDiv = document.getElementById("output-div");
+
+        var figureArray = [];
+
+        // Funksjonen addFigureToArray har 4 parametere. De fire parameterne er for verdier som bruker taster inn på nettsiden
+        function addFigureToArray(userWidth, userHeight, userBackgroundColor, userWord){
+            var newFigure = {
+                width: userWidth,
+                height: userHeight,
+                backgroundColor: userBackgroundColor,
+                word: userWord
+            };
+
+            figureArray.push( newFigure );
+            console.log( figureArray ); // console.log er fint for å kunne se at det fungerer å legge til newFigure i arrayet
+        }
+
+        // showNumberOfFigures skal skrive ut antall figurer som ligger i figureArray. Tallet skal oppdateres for hver gang legger til ny figur i arrayet.
+        function showNumberOfFigures(){
+
+        }
+        
+        // showAllFigures skal bruke en for-løkke for basert på arrayet figureArray skrive ut figurene
+        function showAllFigures(){
+
+        }
+
+        // addFigure-funksjonen trenger å få tak i det bruker har tastet inn og bruke funksjonen addFigureToArray
+        function addFigure(){ 
+
+        }
+
+        addFigureBtn.onclick = addFigure;
+        showAllFiguresBtn.onclick = showAllFigures;
+
+    </script>
+    
+</body>
+</html>

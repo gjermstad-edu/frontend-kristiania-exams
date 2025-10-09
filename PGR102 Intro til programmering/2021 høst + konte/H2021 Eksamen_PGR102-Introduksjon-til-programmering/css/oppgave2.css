@@ -1,0 +1,48 @@
+/*
+    ***
+    MAN SKAL IKKE OG TRENGER IKKE ENDRE DENNE KODEN!
+    ***
+*/
+body{
+    margin: 0;
+    font-family: sans-serif;
+    text-align: center;
+}
+img{
+    position: absolute;
+    left: 0px;
+    transition: all 3s;
+}
+#road-div{
+    position: absolute;
+    top: 80px;
+    height: 280px;
+    width: 100%;
+    background-color: rgb(150, 150, 150);
+    border-top: 1px solid rgb(50, 50, 50);
+    border-bottom: 1px solid rgb(50, 50, 50);
+}
+#blue-car{
+    top: 100px;
+}
+#green-car{
+    top: 200px;
+}
+#red-car{
+    top: 300px;
+}
+#finish-line{
+    position: absolute;
+    left: 700px;
+    top: 80px;
+    width: 5px;
+    height: 280px;
+    background-color: rgb(100, 0, 0);
+}
+#output-div{
+    position: absolute;
+    left: 50px;
+    top: 80px;
+    font-size: 5rem;
+    color: white;
+}

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>setInterval-eksempel</title>
+</head>
+<body>
+
+    <p id="number-p"></p>
+
+    <script>
+
+        var numberP = document.getElementById("number-p");
+
+        var number = 0;
+
+        function incrementNumber(){
+            number++;
+            numberP.innerHTML = number;
+        }
+
+        setInterval( incrementNumber, 1000 ); // 1000 = 1000 millisekunder = 1 sekund
+
+    </script>
+    
+</body>
+</html>

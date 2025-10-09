@@ -1,0 +1,55 @@
+/*
+    Denne CSSen trengs ikke røres! 
+*/
+
+body{
+    margin: 0;
+    background-color: rgb(90, 180, 90);
+    font-family: sans-serif;
+}
+#miaow-miaow{
+    height: 100px;
+    transition: all 0.5s;
+}        
+#game-container{
+    width: 978px;
+    height: 600px;
+    margin: auto;
+    background-color: white;
+    position: relative;
+}
+#game-container img{
+    position: absolute;
+}
+#menu-container{
+    width: 978px;
+    margin: auto;
+}
+#line-div{
+    position: absolute;
+    left: 600px;
+    top: 0px;
+    width: 3px;
+    height: 600px;
+    background-color: rgb(50, 50, 50);
+}
+#the-mighty-fish{
+    left: 770px;
+    top: 300px;
+}
+#dialogue-output-div{
+    width: 978px;
+    margin: auto;
+    background-color: white;
+    text-align: center;                  
+}
+#dialogue-output-div p{
+    padding: 1rem;
+    font-size: 1.1rem;     
+}
+#fish-room-title{
+    position: absolute;
+    top: 0px;
+    left: 650px;
+    font-size: 3rem;
+}        

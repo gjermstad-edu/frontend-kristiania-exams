@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Oppgave 3. Matlageret (25%)</title>
+</head>
+<body>
+
+	<h3>Matlageret</h3>
+	<label>Produktnavn</label>
+	<input type="text"><br>
+	<label>Antall på lager</label>
+	<input type="text"><br>
+	<input type="button" value="Legg til produkt i array">
+	<input type="button" value="Vis produkter du har lagt til">
+	
+	<script>	
+		
+		/* Besvarelse legges til før og/eller etter funksjonen */
+		
+		function sortByAmount(a, b) {
+		  if (a.amount < b.amount) {
+			return 1;
+		  }
+		  if (a.amount > b.amount) {
+			return -1;
+		  }
+		  return 0;
+		}		
+
+	</script>
+</body>
+</html>
+
+
