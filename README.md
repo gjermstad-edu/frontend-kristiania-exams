@@ -3,8 +3,6 @@ Her har jeg prøvd å samle tidligere eksamensoppgaver og resultatet fra fagene 
 
 Har du en tidligere eksamen eller resultatet fra en eksamen som jeg mangler så send meg gjerne en melding så laster jeg den opp (eller gjør en Pull Request).
 
-**Ikke alt er lastet opp enda, det kommer!**
-
 ### 1. semester
 - [DB1102 Databaser](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/DB1102%20Databaser)
 - [PGR102 Intro til programmering](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/PGR102%20Intro%20til%20programmering)
