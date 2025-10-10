@@ -6,6 +6,7 @@ Har du en tidligere eksamen eller resultatet fra en eksamen som jeg mangler så 
 ### 1. semester
 - [DB1102 Databaser](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/DB1102%20Databaser)
 - [PGR102 Intro til programmering](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/PGR102%20Intro%20til%20programmering)
+  - [Tidligere arbeidskrav i PGR102](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/PGR102%20Intro%20til%20programmering/arbeidskrav_PGR102)
 - [PRO105 Kreativt webprosjekt](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/PRO105%20Kreativt%20webprosjekt)
 - [TK1104 Digital teknologi](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/TK1104%20Digital%20Teknologi)
   - _OBS! Fra høsten 2024 gikk TK1104 over fra å være 6t hjemmeeksamen til 3t skoleeksamen, og da er ikke spørsmålene fra eksamen tilgjengelig lenger i etterkant_
@@ -17,7 +18,8 @@ Har du en tidligere eksamen eller resultatet fra en eksamen som jeg mangler så 
   - _PGR110 Visual Analytics ble byttet ut med ESB1100 fra høsten 2024_
 
 ### 3. semester
-- [DS3103 Webutvikling](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/DS3103%20Webutvikling) 
+- [DS3103 Webutvikling](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/DS3103%20Webutvikling)
+  - [Tidligere arbeidskrav i DS3103](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/DS3103%20Webutvikling/arbeidskrav_DS3103)
 - [PGR208 Android programmering](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/PGR208%20Android%20programmering)
 - [DS3302 Interaksjonsdesign](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/DS3302%20Interaksjonsdesign)
 
