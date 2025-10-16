@@ -36,7 +36,7 @@ Sammen blir vi bedre.
 
 ### 5. semester
 - [PG5602 iOS programmering](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/PG5602%20iOS%20programmering)
-  - Før 2023 het faget PG5601 og var 7,5 stp i motsettning til 15 stp for PG5602
+  - _Før 2023 het faget PG5601 og var 7,5 stp i motsettning til 15 stp for PG5602_
 - [TDS200 Kryssplattform](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/TDS200%20Kryssplattform)
   - _3. klasse høsten 2026 er siste kullet som har faget TDS200. Fra høsten 2027 er faget byttet ut med det nye faget **[WAI300 Web Application Infrastructure](https://www.kristiania.no/studieportal/school-of-economics-innovation-and-technology/bachelorniva/wai300/web-application-infrastructure/)**_
 - [PRO203 Smidig prosjekt](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/PRO203%20Smidig%20prosjekt)
