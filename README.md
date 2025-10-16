@@ -1,7 +1,9 @@
 # Tidligere eksamensoppgaver fra Høyskolen Kristiania
-Her har jeg prøvd å samle tidligere eksamensoppgaver og resultatet fra fagene jeg har hatt under min egen bachelor i Frontend- og mobilutvikling på Høyskolen Kristiania om noen andre vil øve seg før sin egen eksamen.
+Her har jeg prøvd å samle tidligere eksamensoppgaver og resultatet fra bl.a. fagene jeg har hatt under min egen bachelor i Frontend- og mobilutvikling på Høyskolen Kristiania om noen andre vil øve seg før sin egen eksamen.
 
-Har du en tidligere eksamen eller resultatet fra en eksamen som jeg mangler så send meg gjerne en melding så laster jeg den opp (eller gjør en Pull Request).
+Har du en tidligere eksamen og/eller resultatet fra en eksamen som jeg mangler så send meg gjerne en melding så laster jeg den opp (eller gjør en Pull Request) 😊👍
+
+Sammen blir vi bedre.
 
 ### 1. semester
 - [DB1102 Databaser](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/DB1102%20Databaser)
@@ -23,14 +25,18 @@ Har du en tidligere eksamen eller resultatet fra en eksamen som jeg mangler så 
 - [PGR208 Android programmering](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/PGR208%20Android%20programmering)
 - [DS3302 Interaksjonsdesign](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/DS3302%20Interaksjonsdesign)
 
-### 4. semester (_valgfag - her er kun samlet for valgfagene jeg selv tok_)
+### 4. semester (_valgfag - her er kun noen av fagene lastet opp siden jeg ikke har hatt dem_)
 - [BU5300 IT-prosjektledelse](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/BU5300%20IT-prosjektledelse)
 - [PG3401 Programmering i C for Linux](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/PG3401%20Programmering%20i%20C%20for%20Linux)
 - [PG4200 Algorithms and Data Structures](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/PG4200%20Algoritmer%20og%20datastrukturer)
 - [PGR107 Python Programming](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/PGR107%20Python-programmering)
+- [DS4800 Innovasjon og Prototyping](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/DS4800%20Innovasjon%20og%20Prototyping)
+- [KWS2100 Kartbaserte Websystemer](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/KWS2100%20Kartbaserte%20Websystemer)
+- [PG2202 Unity Utvikling](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/PG2202%20Unity%20Utvikling)
 
 ### 5. semester
 - [PG5602 iOS programmering](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/PG5602%20iOS%20programmering)
+  - Før 2023 het faget PG5601 og var 7,5 stp i motsettning til 15 stp for PG5602
 - [TDS200 Kryssplattform](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/TDS200%20Kryssplattform)
   - _3. klasse høsten 2026 er siste kullet som har faget TDS200. Fra høsten 2027 er faget byttet ut med det nye faget **[WAI300 Web Application Infrastructure](https://www.kristiania.no/studieportal/school-of-economics-innovation-and-technology/bachelorniva/wai300/web-application-infrastructure/)**_
 - [PRO203 Smidig prosjekt](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/PRO203%20Smidig%20prosjekt)
