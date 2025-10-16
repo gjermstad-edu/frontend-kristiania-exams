@@ -25,7 +25,8 @@ Sammen blir vi bedre.
 - [PGR208 Android programmering](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/PGR208%20Android%20programmering)
 - [DS3302 Interaksjonsdesign](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/DS3302%20Interaksjonsdesign)
 
-### 4. semester (_valgfag - her er kun noen av fagene lastet opp siden jeg ikke har hatt dem_)
+### 4. semester (_valgfag_)
+_Her er kun noen av fagene lastet opp siden jeg bare hadde BU5300, PG3401, PG4200 og PGR107 selv_
 - [BU5300 IT-prosjektledelse](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/BU5300%20IT-prosjektledelse)
 - [PG3401 Programmering i C for Linux](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/PG3401%20Programmering%20i%20C%20for%20Linux)
 - [PG4200 Algorithms and Data Structures](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/PG4200%20Algoritmer%20og%20datastrukturer)
