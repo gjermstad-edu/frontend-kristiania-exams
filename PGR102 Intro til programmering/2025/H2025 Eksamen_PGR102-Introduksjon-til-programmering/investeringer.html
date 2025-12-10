@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Investeringer</title>
+
+    <style> /* IKKE LOV Å ENDRE PÅ CSS */
+        body{
+            margin: 0;
+        }
+        #div-1, #div-2, #div-3, #div-4{
+            border: 1px solid rgb(200, 200, 200);
+            width: 400px;
+            margin: 1rem;
+            padding: 1rem;
+        }
+        #div-4{
+            position: absolute;
+            top: 0rem;
+            left: 450px;
+        }
+        /* IKKE LOV Å ENDRE PÅ CSS */
+    </style>
+</head>
+<body>
+
+
+    <!-- IKKE LOV Å ENDRE PÅ NOE AV HTML'EN! -->
+    <div id="div-1">        
+        <h2>Din kapital</h2>        
+        <p>Dine penger: <span id="your-money-span"></span>,- NOK</p>
+    </div>
+
+    <div id="div-2">
+
+        <h2>Investér</h2>
+        
+        <div>
+            <label>
+                Id
+                <input id="id-txt" type="number">
+            </label>  
+        </div>
+       
+        <input id="buy-company-btn" type="button" value="Kjøp bedrift">
+        <input id="sell-company-btn" type="button" value="Selg bedrift">
+
+        <p>Status: <span id="status-span">...</span></p>
+
+    </div>
+
+
+    <div id="div-2">
+
+        <h2>Dine investeringer (antall: <span id="number-of-shops-bought-span"></span>)</h2>
+
+        <div id="investments-div">
+            <p>Ingen investeringer så langt.</p>
+        </div>
+
+    </div>
+    
+
+    <div id="div-4">
+
+        <h2>Butikker</h2>      
+
+        <div>
+            <h3><span id="name1-span"></span> (id: 1)</h3>
+            <p>Pris: <span id="price1-span"></span>,- NOK</p>
+            <p>Kjøpt: <span id="bought1-span"></span></p>
+        </div>
+
+        <div>
+            <h3><span id="name2-span"></span> (id: 2)</h3>
+            <p>Pris: <span id="price2-span"></span>,- NOK</p>
+            <p>Kjøpt: <span id="bought2-span"></span></p>
+        </div>
+
+        <div>
+            <h3><span id="name3-span"></span> (id: 3)</h3>
+            <p>Pris: <span id="price3-span"></span>,- NOK</p>
+            <p>Kjøpt: <span id="bought3-span"></span></p>
+        </div>
+
+    </div>
+    <!-- IKKE LOV Å ENDRE PÅ NOE AV HTML'EN! -->
+
+
+    <script> // I DENNE SCRIPT-TAGEN SKAL DU/DERE KODE ALL JS FOR DENNE OPPGAVEN
+        
+
+    </script>
+    
+</body>
+</html>

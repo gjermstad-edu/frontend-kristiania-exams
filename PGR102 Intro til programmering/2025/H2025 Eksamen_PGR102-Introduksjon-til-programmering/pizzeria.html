@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pizzeria</title>
+
+    <style>/* IKKE LOV Å ENDRE PÅ CSS */
+        #div-1, #div-2{
+            position: absolute;
+        }
+
+        #div-1{
+            top: 0;
+            left: 10px;
+        }
+
+        #div-2{
+            top: 0;
+            left: 400px;
+        }
+
+        #table-1-div, #table-2-div{
+            width: 305px;
+            height: 220px;
+            border: 1px solid rgb(50, 50, 0);
+        }
+
+        #table-1-div img, #table-2-div img{
+            width: 150px;
+            margin: 1px;
+            display: inline-block;
+        }
+
+        #pizza-chef{
+            position: absolute;
+            top: 600px;
+        }
+
+        #pizza-oven-div{
+            width: 150px;
+            height: 100px;
+            border: 1px solid rgb(50, 50, 0);
+            padding: 3px;
+        }        
+
+        #pizza-oven-div img{
+            width: 150px;
+        }
+        /* IKKE LOV Å ENDRE PÅ CSS */
+    </style>
+
+</head>
+<body>
+
+    <!-- IKKE LOV Å ENDRE PÅ NOE AV HTML'EN! -->
+    <div id="div-1">
+        <img src="images/man1.jpg">
+        <p id="man-1-speaks-p">...</p>
+        <div id="table-1-div">Bord 1</div>
+    </div>
+
+    <div id="div-2">
+        <img src="images/woman3.jpg">
+        <p id="woman-3-speaks-p">...</p>
+        <div id="table-2-div">Bord 2</div>
+    </div>      
+
+    <div id="pizza-chef">
+        <label>Pizza å lage</label>
+        <select id="pizza-choice-select">
+            <option value="pizza-1">Pepperoni</option>
+            <option value="pizza-2">Shrimp</option>
+            <option value="pizza-3">Hawaii</option>
+        </select>
+        <input id="make-pizza-btn" type="button" value="Lag pizza">
+        <input id="throw-away-pizza-btn" type="button" value="Kast pizza">
+
+        <label>Til bord</label>
+        <input id="table-number-txt" type="text">    
+        <input id="deliver-pizza-btn" type="button" value="Lever pizza">
+
+        <div id="pizza-oven-div">Pizza-ovnen</div>
+
+        <h3>Salg</h3>
+        <div id="money-earned-div"></div>
+    </div>
+    <!-- IKKE LOV Å ENDRE PÅ NOE AV HTML'EN! -->
+
+
+    <script> // I DENNE SCRIPT-TAGEN SKAL DU/DERE KODE ALL JS FOR DENNE OPPGAVEN
+
+
+        /*
+            Du skal bruke denne arrayen for informasjon om pizzaene
+        */
+        const pizzas = [
+            {
+                id: 1,
+                name: "Pepperoni",
+                price: 279
+            },
+            {
+                id: 2,
+                name: "Shrimp",
+                price: 300
+            },
+            {
+                id: 3,
+                name: "Hawaii",
+                price: 349
+            }
+        ];        
+
+    </script>
+    
+</body>
+</html>
