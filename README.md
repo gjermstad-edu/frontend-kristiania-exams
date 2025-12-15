@@ -3,7 +3,11 @@ Her har jeg prøvd å samle tidligere eksamensoppgaver og resultatet fra bl.a. f
 
 Har du en tidligere eksamen og/eller resultatet fra en eksamen som jeg mangler så send meg gjerne en melding så laster jeg den opp (eller gjør en Pull Request) 😊👍
 
-Sammen blir vi bedre.
+Jeg har også lagt til noen av fagene fra Cybersikkerhet (SKY2100 Skysikkerhet, CYB2100 Cyberforsvar, IOS3100 IoT-OT sikkerhet og GRC1100 Governance, Risk and Compliance) siden jeg kjenner mange som studerer Cyber og tenkte jeg kunne hjelpe dem også. 
+
+Sammen blir vi bedre av å hjelpe hverandre ☀️
+
+## Fagene til bachelor i Frontend- og mobilutvikling
 
 ### 1. semester
 - [DB1102 Databaser](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/DB1102%20Databaser)
