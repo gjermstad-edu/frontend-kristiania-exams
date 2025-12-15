@@ -3,7 +3,7 @@ Her har jeg prøvd å samle tidligere eksamensoppgaver og resultatet fra bl.a. f
 
 Har du en tidligere eksamen og/eller resultatet fra en eksamen som jeg mangler så send meg gjerne en melding så laster jeg den opp (eller gjør en Pull Request) 😊👍
 
-Jeg har også lagt til noen av fagene fra Cybersikkerhet (SKY2100 Skysikkerhet, CYB2100 Cyberforsvar, IOS3100 IoT-OT sikkerhet og GRC1100 Governance, Risk and Compliance) siden jeg kjenner mange som studerer Cyber og tenkte jeg kunne hjelpe dem også. 
+Jeg har også lagt til noen av fagene fra Cybersikkerhet ([SKY2100 Skysikkerhet](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/SKY2100%20Skysikkerhet), [CYB2100 Cyberforsvar](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/CYB2100%20Cyberforsvar), [IOS3100 IoT-OT sikkerhet](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/IOS3100%20IoT-OT%20sikkerhet) og [GRC1100 Governance, Risk and Compliance](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/GRC1100%20Governance%2C%20Risk%20and%20Compliance)) siden jeg kjenner mange som studerer Cyber og tenkte jeg kunne hjelpe dem også. 
 
 Sammen blir vi bedre av å hjelpe hverandre ☀️
 
@@ -45,7 +45,7 @@ _Her er kun noen av fagene lastet opp siden jeg bare hadde BU5300, PG3401, PG420
 - [TDS200 Kryssplattform](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/TDS200%20Kryssplattform)
   - _3. klasse høsten 2026 er siste kullet som har faget TDS200. Fra høsten 2027 er faget byttet ut med det nye faget **[WAI300 Web Application Infrastructure](https://www.kristiania.no/studieportal/school-of-economics-innovation-and-technology/bachelorniva/wai300/web-application-infrastructure/)**_
 - [PRO203 Smidig prosjekt](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/PRO203%20Smidig%20prosjekt)
-  - _Frem til 2024 var Smidig prosjekt et fag i 4. semester på 15 studiepoeng (PRO202), som ble flyttet til 5. semester og 7,5 studiepoeng høsten 2025_
+  - _Frem til 2024 var Smidig prosjekt et fag i 4. semester på 15 studiepoeng (PRO200, PRO201 og PRO202), som ble flyttet til 5. semester og endret til 7,5 studiepoeng høsten 2025_
 
 ### 6. semester
-- PJ6100 Undersøkelsesmetoder
+- [PJ6100 Undersøkelsesmetoder](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/PJ6100%20Undersøkelsesmetoder)
