@@ -1,9 +1,9 @@
 # Tidligere eksamensoppgaver fra Høyskolen Kristiania
-Her har jeg prøvd å samle tidligere eksamensoppgaver og resultatet fra bl.a. fagene jeg har hatt under min egen bachelor i Frontend- og mobilutvikling på Høyskolen Kristiania om noen andre vil øve seg før sin egen eksamen.
+Her har jeg prøvd å samle tidligere eksamensoppgaver og resultatet fra bl.a. fagene jeg har hatt under min egen bachelor i Frontend- og mobilutvikling (2023-2026) på Høyskolen Kristiania om noen andre vil øve seg før sin egen eksamen.
 
-Har du en tidligere eksamen og/eller resultatet fra en eksamen som jeg mangler så send meg gjerne en melding så laster jeg den opp (eller gjør en Pull Request) 😊👍
+**Har du en tidligere eksamen og/eller resultatet fra en eksamen som mangler så send meg gjerne en melding så laster jeg den opp (eller gjør en Pull Request) **😊👍
 
-Jeg har også lagt til noen av fagene fra Cybersikkerhet ([SKY2100 Skysikkerhet](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/SKY2100%20Skysikkerhet), [CYB2100 Cyberforsvar](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/CYB2100%20Cyberforsvar), [IOS3100 IoT-OT sikkerhet](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/IOS3100%20IoT-OT%20sikkerhet) og [GRC1100 Governance, Risk and Compliance](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/GRC1100%20Governance%2C%20Risk%20and%20Compliance)) siden jeg kjenner mange som studerer Cyber og tenkte jeg kunne hjelpe dem også. 
+Jeg har også lagt til de fleste av fagene fra Cybersikkerhet sine fag ([ETH2100 Etisk hacking](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/ETH2100%20Etisk%20hacking), [SKY2100 Skysikkerhet](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/SKY2100%20Skysikkerhet), [CYB2100 Cyberforsvar](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/CYB2100%20Cyberforsvar), [IOS3100 IoT-OT sikkerhet](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/IOS3100%20IoT-OT%20sikkerhet) og [GRC1100 Governance, Risk and Compliance](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/GRC1100%20Governance%2C%20Risk%20and%20Compliance)) siden jeg kjenner mange som studerer Cyber og tenkte jeg kunne hjelpe dem også. 
 
 Sammen blir vi bedre av å hjelpe hverandre ☀️
 
