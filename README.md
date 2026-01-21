@@ -21,7 +21,7 @@ Sammen blir vi bedre av å hjelpe hverandre ☀️
 - [TK2100 Informasjonssikkerhet](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/TK2100%20Informasjonssikkerhet)
 - [PGR112 Objektorientert programmering](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/PGR112%20Objektorientert%20programmering)
 - [ESB1100 Etikk, samfunnsansvar og bærekraft](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/ESB1100%20Etikk%2C%20samfunnsansvar%20og%20bærekraft)
-  - _PGR110 Visual Analytics ble byttet ut med ESB1100 fra høsten 2024_
+  - _PGR110 Visual Analytics ble byttet ut med ESB1100 fra høsten 2024, derfor har jeg ikke tatt med PGR110 i dette repoet_
 
 ### 3. semester
 - [DS3103 Webutvikling](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/DS3103%20Webutvikling)
@@ -38,6 +38,8 @@ _Her er kun noen av fagene lastet opp siden jeg bare hadde BU5300, PG3401, PG420
 - [DS4800 Innovasjon og Prototyping](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/DS4800%20Innovasjon%20og%20Prototyping)
 - [KWS2100 Kartbaserte Websystemer](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/KWS2100%20Kartbaserte%20Websystemer)
 - [PG2202 Unity Utvikling](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/PG2202%20Unity%20Utvikling)
+- [PGR213 Programming and Quantum Computing](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/PGR213%20Programming%20and%20Quantum%20Computing)
+  - _Dette var et nytt fag våren 2025_
 
 ### 5. semester
 - [PG5602 iOS programmering](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/PG5602%20iOS%20programmering)
