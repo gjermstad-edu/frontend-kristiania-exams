@@ -9,6 +9,8 @@ Sammen blir vi bedre av å hjelpe hverandre ☀️
 
 ## Fagene til bachelor i Frontend- og mobilutvikling
 
+_Fra høsten 2026 blir bachelor i frontend- og mobilutvikling slått sammen med bachelor i programmering og bachelor i interaksjonsdesign til den nye [bachelor i fullstack](https://www.kristiania.no/studier/bachelor/informasjonsteknologi-fullstack-utvikling/). Så utenom førsteåret får nye studenter kun **[DS3103 Webutvikling](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/DS3103%20Webutvikling)** og **[PJ6100 Undersøkelsesmetoder](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/PJ6100%20Undersøkelsesmetoder)** som vi hadde i Frontend + to valgfag (valgfag endres fra 30 stp til 15 stp også får man et nytt fag på 15 stp samtidlig, ØA1005 Problemløsning i TEAM)._
+
 ### 1. semester
 - [DB1102 Databaser](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/DB1102%20Databaser)
 - [PGR102 Intro til programmering](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/PGR102%20Intro%20til%20programmering)
