@@ -5,6 +5,8 @@ Her har jeg prøvd å samle tidligere eksamensoppgaver og resultatet fra bl.a. f
 
 Jeg har også lagt til de fleste av fagene fra Cybersikkerhet sine fag ([ETH2100 Etisk hacking](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/ETH2100%20Etisk%20hacking), [SKY2100 Skysikkerhet](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/SKY2100%20Skysikkerhet), [CYB2100 Cyberforsvar](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/CYB2100%20Cyberforsvar), [IOS3100 IoT-OT sikkerhet](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/IOS3100%20IoT-OT%20sikkerhet) og [GRC1100 Governance, Risk and Compliance](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/GRC1100%20Governance%2C%20Risk%20and%20Compliance)) siden jeg kjenner mange som studerer Cyber og tenkte jeg kunne hjelpe dem også. 
 
+Våren 2026 la jeg også til noen eksamensoppgaver fra Master i Cybersikkerhet som jeg fikk tilgang til. Dette gjaldt da fagene [MC102 Cyber Threat Intelligence](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/MC102%20Cyber%20Threat%20Intelligence), [MC103 Cryptography and Blockchain](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/MC103%20Cryptography%20and%20Blockchain) og [MC104 AI for Cyber Security](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/MC104%20AI%20for%20Cyber%20Security) så langt. Om noen har tilgang til flere eksamensoppgaver fra masterstudiet så sende de gjerne til meg eller lag en PR.
+
 Sammen blir vi bedre av å hjelpe hverandre ☀️
 
 ## Fagene til bachelor i Frontend- og mobilutvikling
