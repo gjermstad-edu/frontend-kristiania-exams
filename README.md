@@ -24,8 +24,9 @@ _Fra høsten 2026 blir bachelor i frontend- og mobilutvikling slått sammen med 
 ### 2. semester
 - [TK2100 Informasjonssikkerhet](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/TK2100%20Informasjonssikkerhet)
 - [PGR112 Objektorientert programmering](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/PGR112%20Objektorientert%20programmering)
+- [PGR110 Visual Analytics](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/PGR110%20Visual%20Analytics)
 - [ESB1100 Etikk, samfunnsansvar og bærekraft](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/ESB1100%20Etikk%2C%20samfunnsansvar%20og%20bærekraft)
-  - _PGR110 Visual Analytics ble byttet ut med ESB1100 fra høsten 2024, derfor har jeg ikke tatt med PGR110 i dette repoet_
+  - _PGR110 Visual Analytics ble byttet ut med ESB1100 fra høsten 2024_
 
 ### 3. semester
 - [DS3103 Webutvikling](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/DS3103%20Webutvikling)
@@ -55,3 +56,4 @@ _Her er kun noen av fagene lastet opp siden jeg bare hadde BU5300, PG3401, PG420
 
 ### 6. semester
 - [PJ6100 Undersøkelsesmetoder](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/PJ6100%20Undersøkelsesmetoder)
+- [BAO304 Bacheloroppgave](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/BAO304%20Bacheloroppgave)
