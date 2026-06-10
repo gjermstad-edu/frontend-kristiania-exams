@@ -56,3 +56,4 @@ _Her er kun noen av fagene lastet opp siden jeg bare hadde BU5300, PG3401, PG420
 
 ### 6. semester
 - [PJ6100 Undersøkelsesmetoder](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/PJ6100%20Undersøkelsesmetoder)
+- [BAO304 Bacheloroppgave](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/BAO304%20Bacheloroppgave)
