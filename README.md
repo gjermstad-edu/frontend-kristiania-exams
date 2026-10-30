@@ -50,7 +50,8 @@ _Her er kun noen av fagene lastet opp siden jeg bare hadde BU5300, PG3401, PG420
 - [PG5602 iOS programmering](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/PG5602%20iOS%20programmering)
   - _Før 2023 het faget PG5601 og var 7,5 stp i motsettning til 15 stp for PG5602_
 - [TDS200 Kryssplattform](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/TDS200%20Kryssplattform)
-  - _3. klasse høsten 2026 er siste kullet som har faget TDS200. Fra høsten 2027 er faget byttet ut med det nye faget **[WAI300 Web Application Infrastructure](https://www.kristiania.no/studieportal/school-of-economics-innovation-and-technology/bachelorniva/wai300/web-application-infrastructure/)**_
+  - _3. klasse høsten 2026 er siste kullet som har faget TDS200. Høsten 2027 er faget byttet ut med det nye faget **[WAI300 Web Application Infrastructure](https://www.kristiania.no/studieportal/school-of-economics-innovation-and-technology/bachelorniva/wai300/web-application-infrastructure/)**_
+  - _Fra 2028 er det ikke lenger en Frontend-linje, da den er slått sammen med andre til [bachelor i fullstack](https://www.kristiania.no/studier/bachelor/informasjonsteknologi-fullstack-utvikling/)_
 - [PRO203 Smidig prosjekt](https://github.com/gjermstad-edu/frontend-kristiania-exams/tree/main/PRO203%20Smidig%20prosjekt)
   - _Frem til 2024 var Smidig prosjekt et fag i 4. semester på 15 studiepoeng (PRO200, PRO201 og PRO202), som ble flyttet til 5. semester og endret til 7,5 studiepoeng høsten 2025_
 
